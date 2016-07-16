@@ -1,0 +1,1 @@
+add_lunch_combo cm_cht_cr_mrd-userdebug

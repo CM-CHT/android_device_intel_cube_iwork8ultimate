@@ -1,0 +1,6 @@
+# GPU
+/system/bin/msync           u:object_r:msync_exec:s0
+/system/bin/coreu           u:object_r:coreu_exec:s0
+
+# HDCP
+/system/bin/hdcpd           u:object_r:hdcpd_exec:s0

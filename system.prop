@@ -1,0 +1,5 @@
+# Display
+ro.sf.lcd_density=160
+
+# HDMI
+hwc.video.extmode.enable=0

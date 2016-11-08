@@ -1,1 +1,1 @@
-CyanogenMod 12.1 device configuration for [Cube iWork8 Ultimate](http://www.modaco.com/forums/topic/377300-cyanogenmod-121/).
+CyanogenMod 13 device configuration for [Cube iWork8 Ultimate](http://www.modaco.com/forums/topic/378037-cyanogenmod-13/).

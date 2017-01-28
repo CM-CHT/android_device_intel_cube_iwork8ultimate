@@ -1,1 +1,1 @@
-add_lunch_combo cm_cube_iwork8ultimate-userdebug
+add_lunch_combo lineage_cube_iwork8ultimate-userdebug

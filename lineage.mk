@@ -3,7 +3,7 @@ TARGET_SCREEN_WIDTH := 800
 TARGET_SCREEN_HEIGHT := 1280
 TARGET_BOOTANIMATION_HALF_RES := true
 
-# Inherit some common CM stuff.
+# Inherit some common LineageOS stuff.
 $(call inherit-product, vendor/cm/config/common_full_tablet_wifionly.mk)
 
 # Inherit device configuration
@@ -11,7 +11,7 @@ $(call inherit-product, device/intel/cube_iwork8ultimate/cube_iwork8ultimate.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := cube_iwork8ultimate
-PRODUCT_NAME := cm_cube_iwork8ultimate
+PRODUCT_NAME := lineage_cube_iwork8ultimate
 PRODUCT_BRAND := Cube
 PRODUCT_MODEL := I1-T
 PRODUCT_MANUFACTURER := Cube

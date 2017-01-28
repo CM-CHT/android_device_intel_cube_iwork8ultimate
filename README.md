@@ -1,1 +1,1 @@
-CyanogenMod 13 device configuration for [Cube iWork8 Ultimate](http://www.modaco.com/forums/topic/378037-cyanogenmod-13/).
+CyanogenMod/LineageOS 13 device configuration for [Cube iWork8 Ultimate](http://konstakang.com/devices/cube_iwork8ultimate/CM13).
